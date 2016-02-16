@@ -6,6 +6,8 @@ Press intro or spacebar for starting a new game.
 
 Good Luck.
 
+This game was made for the [Ludum Dare 29](http://ludumdare.com/compo/ludum-dare-29/?action=preview&uid=24027) and the **Beneath the Surface** theme.
+
 
 ## Download
 
