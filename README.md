@@ -11,7 +11,7 @@ This game was made for the [Ludum Dare 29](http://ludumdare.com/compo/ludum-dare
 
 ## Download
 
-You can check the [release page]() of this repo to download the latest version.
+You can check the [release page](https://github.com/ellipticaldoor/a_sea_of_nothing/releases) of this repo to download the latest version.
 
 
 ## Screenshots
