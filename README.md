@@ -1,4 +1,4 @@
-# A see of nothing
+# A sea of nothing
 
 You have to fill the circle with the smoke (it's a whale) with your keyboard arrows.
 
@@ -16,4 +16,5 @@ You can check the [release page]() of this repo to download the latest version.
 
 ## Screenshots
 
-![screenshot_1]()
+![screenshot_1](https://raw.githubusercontent.com/ellipticaldoor/a_sea_of_nothing/master/resources/screenshots/screenshot_1.png)
+![screenshot_2](https://raw.githubusercontent.com/ellipticaldoor/a_sea_of_nothing/master/resources/screenshots/screenshot_2.png)
